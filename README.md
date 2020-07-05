@@ -26,14 +26,21 @@ A receptionist SignIn with a provided username and password to successfully LogI
     * Details of all the medicines available with price per unit. Used in dealing with prescription of appointments.
 
 
+
+
 # Snapshots
 ![alt text](/snaps/1.jpg "1")
+
+<br />
 
 
 ![alt text](/snaps/2.jpg "2")
 
+<br />
+
 
 ![alt text](/snaps/3.jpg "3")
 
+<br />
 
 ![alt text](/snaps/4.jpg "4")
